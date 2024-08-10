@@ -1213,6 +1213,7 @@
 - [Packer](https://github.com/hashicorp/packer) - 轻量级的镜像定义工具
 - [cosign](https://github.com/sigstore/cosign) - 容器签名和验证
 - [SlimToolkit](https://github.com/slimtoolkit/slim) - 检查、缩小和调试容器
+- [go-judge](https://github.com/criyle/go-judge) - 基于 Namespace 和 Cgroup 实现的容器化环境
 
 
 ### 集群管理
